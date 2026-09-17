@@ -1,0 +1,10 @@
+{
+  "name": "FRS – Smart Face Recognition System",
+  "description": "A modern, responsive AI-powered Face Recognition System for real-time face detection, user registration, recognition logs, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
